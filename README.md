@@ -20,7 +20,7 @@
 
   ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 
-&nbsp; I am **Guilherme** an enthusiastic and ambitious full stack developer and mobile developer. I specialise in Web Development, JavaScript, Pyton and Flutter. I love to network, join new communities and add value ✨
+&nbsp; I am **Guilherme** an enthusiastic and ambitious full stack developer and mobile developer. I specialise in Web Development, JavaScript, Python and Flutter. I love to network, join new communities and add value ✨
 
 ![version :11.05.2023](https://img.shields.io/badge/version-11.05.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=GuiQueirozRibeiro&color=red) &nbsp;
