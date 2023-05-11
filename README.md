@@ -1,8 +1,5 @@
 ![Boas vindas ao meu Github](images/capa.gif)
 
-<details open>
-<summary>English</summary>
-
 <p align="center">
   <a href="https://instagram.com/guilhermequeirozr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilhermevilaferrara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -15,6 +12,9 @@
 <br/>
 
 <p>
+
+<details open>
+<summary>English</summary>
 
   ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 
@@ -89,16 +89,6 @@ I am **Guilherme** an enthusiastic and ambitious full stack developer and mobile
 <details>
   
 <summary>Portuguese</summary>
-
-<p align="center">
-  <a href="https://instagram.com/guilhermequeirozr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilhermevilaferrara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="mailto:guilherme.q.r@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-queiroz-ribeiro-9ab383161" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/+5561996301711?text=I'm%20interested%20in%20knowing%20more%20about%20your%20profile" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</p>
-
-<br/>
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá!
 
