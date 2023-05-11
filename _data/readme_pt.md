@@ -1,3 +1,8 @@
+---
+layout: default
+lang: pt
+---
+
 ![Boas vindas ao meu Github](images/capa.gif)
 
 <p align="center">
