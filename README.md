@@ -1,7 +1,7 @@
+![Boas vindas ao meu Github](images/capa.gif)
+
 <details open>
 <summary>English</summary>
-
-![Boas vindas ao meu Github](images/capa.gif)
 
 <p align="center">
   <a href="https://instagram.com/guilhermequeirozr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -87,8 +87,8 @@ I am **Guilherme** an enthusiastic and ambitious full stack developer and mobile
 </details>
 
 <details>
+  
 <summary>Portuguese</summary>
-![Boas vindas ao meu Github](images/capa.gif)
 
 <p align="center">
   <a href="https://instagram.com/guilhermequeirozr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
