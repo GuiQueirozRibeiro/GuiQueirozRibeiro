@@ -88,8 +88,6 @@
 
 </details>
 
-<br/>
-
 <details>
   
 <summary>Portuguese</summary>
