@@ -48,7 +48,6 @@
 ## ⚡ Tech Stack
 
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)&nbsp;
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
   ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)&nbsp;
@@ -121,7 +120,6 @@
 ## ⚡ Pilha de Tecnologias
 
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)&nbsp;
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
   ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)&nbsp;
