@@ -1,7 +1,7 @@
 <details>
 <summary>Original Text</summary>
 
-This is the original text that will be hidden when the switch button is turned on.
+# `This is the original text that will be hidden when the switch button is turned on.`
 
 </details>
 
