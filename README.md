@@ -77,9 +77,10 @@
 
 <div>
   <a href="https://github.com/GuiQueirozRibeiro">
-
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=GuiQueirozRibeiro&theme=radical&title_color=ff3068?"></a>
-  <img align="right" width="46%" src="http://github-readme-streak-stats.herokuapp.com/?user=GuiQueirozRibeiro&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+    
+  <img align="right" width="40%" src="https://static.wikia.nocookie.net/liberproeliis/images/0/0f/Kirito_Render_SAO.png/revision/latest?cb=20191224162351&path-prefix=pt-br"></img>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GuiQueirozRibeiro&theme=radical&title_color=ff3068?"></img>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiQueirozRibeiro&layout=compact&theme=merko"></img>
 </div>
  
 </div>
@@ -150,8 +151,9 @@
 <div>
   <a href="https://github.com/GuiQueirozRibeiro">
 
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=GuiQueirozRibeiro&theme=radical&title_color=ff3068?"></a>
-  <img align="right" width="46%" src="http://github-readme-streak-stats.herokuapp.com/?user=GuiQueirozRibeiro&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <img align="right" width="40%" src="https://static.wikia.nocookie.net/liberproeliis/images/0/0f/Kirito_Render_SAO.png/revision/latest?cb=20191224162351&path-prefix=pt-br"></img>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GuiQueirozRibeiro&theme=radical&title_color=ff3068?"></img>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiQueirozRibeiro&layout=compact&theme=merko"></img>
 </div>
  
 </div>
