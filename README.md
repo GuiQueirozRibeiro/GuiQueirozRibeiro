@@ -160,3 +160,5 @@
 
 
 </details>
+
+![Snake animation](https://github.com/GuiQueirozRibeiro/GuiQueirozRibeiro/blob/output/github-contribution-grid-snake.svg)
