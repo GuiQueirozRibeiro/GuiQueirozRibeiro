@@ -1,4 +1,4 @@
-![Boas vindas ao meu Github](images/capa.gif)
+![Boas vindas ao meu Github](images/ola.png)
 
 <br/>
 
