@@ -42,7 +42,7 @@
 
   - 💬 Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
 
-  - 📄 You can check my [Resume](https://docs.google.com/document/d/1loX82tlhRU6mfKlPaeO_2KDdrVmGSxZg5FnYlnaGAOY/edit?usp=sharing) for more details about work experience.
+  - 📄 You can check my [Resume](https://docs.google.com/document/d/1qoCGJAc-LNnEAZhEMkboc79PrQIn_VVHT67Bh94NLo4/edit?usp=sharing) for more details about work experience.
   
 </details>
   
