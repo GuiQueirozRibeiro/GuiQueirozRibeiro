@@ -7,7 +7,6 @@
  
  <h1 align="left">Guilherme Queiroz</h1>
  <a href="https://instagram.com/guilhermequeirozr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
-  <a href = "mailto:guilhermevilaferrara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
   <a href="https://www.linkedin.com/in/guilherme-queiroz-ribeiro-9ab383161" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
   <a href="https://wa.me/+5561996301711?text=I'm%20interested%20in%20knowing%20more%20about%20your%20profile" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
