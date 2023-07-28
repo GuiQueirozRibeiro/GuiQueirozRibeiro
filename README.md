@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top: -20px" src="images/ola.png">
+<img align="right" width="280px" style="margin-top: -20px" src="images/ola.png">
 
 </br>
 </br>
