@@ -81,9 +81,9 @@
 <div>
   <a href="https://github.com/GuiQueirozRibeiro">
     
-  <img align="right" width="38%" src="images/cafe.png">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GuiQueirozRibeiro&theme=radical&title_color=ff3068?"></img>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiQueirozRibeiro&layout=compact&theme=merko"></img>
+  <img align="right" width="30%" src="images/cafe.png">
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiQueirozRibeiro&theme=radical&title_color=ff3068?"></img>
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiQueirozRibeiro&layout=compact&theme=merko"></img>
 </div>
  
 </div>
@@ -158,9 +158,9 @@
 <div>
   <a href="https://github.com/GuiQueirozRibeiro">
 
-  <img align="right" width="38%" src="images/cafe.png">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GuiQueirozRibeiro&theme=radical&title_color=ff3068?"></img>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiQueirozRibeiro&layout=compact&theme=merko"></img>
+  <img align="right" width="30%" src="images/cafe.png">
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiQueirozRibeiro&theme=radical&title_color=ff3068?"></img>
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiQueirozRibeiro&layout=compact&theme=merko"></img>
 </div>
  
 </div>
