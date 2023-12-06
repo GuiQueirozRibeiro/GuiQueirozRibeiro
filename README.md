@@ -19,7 +19,7 @@
 
   ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 
-&nbsp; I am **Guilherme** an enthusiastic and ambitious full stack developer and mobile developer. I specialise in Web Development, JavaScript, Python and Flutter. I love to network, join new communities and add value ✨
+&nbsp; I'm **Guilherme**, a freelancer with over two years of experience in Flutter development, focusing on mobile applications. Currently working on my second paid app, I've been contributing to the field through platforms like Upwork for the past six months.
 
 ![version :11.05.2023](https://img.shields.io/badge/version-11.05.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=GuiQueirozRibeiro&color=red) &nbsp;
@@ -33,11 +33,9 @@
 <details>
   <summary>🧑 More about me</summary>
 
-  - 💡 As the leader of the interns at the TRF (Federal Regional Court), my responsibilities involve overseeing server infrastructure, implementing GitLab automation, and ensuring task standardization through the use of playbooks.
+  - 💼 Leading the intern team at the TRF (Federal Regional Court), I manage server infrastructure, implement GitLab automation, and ensure standardized task execution using playbooks.
 
-  - 🎓 At present, I'm studying at the University Center IESB (Instituto de Educação Superior de Brasília) which I joined in 2020 and expect to complete by the conclusion of 2024.
-
-  - 🌱 I'm on track for learning more about Artificial Intelligence, Web Scrapping, and Web Applications.
+  - 🎓 Studying at the University Center IESB since 2020, I anticipate completion by the end of 2024.
 
   - 💬 Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
 
@@ -81,7 +79,7 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá!
 
-&nbsp; Eu sou **Guilherme**, um desenvolvedor full stack e mobile entusiasta e ambicioso. Eu me especializei em desenvolvimento web, JavaScript, Python e Flutter. Eu adoro fazer networking, conhecer novas comunidades e agregar valor ✨
+&nbsp; Eu sou **Guilherme**, um freelancer com mais de dois anos de experiência em desenvolvimento Flutter, com foco em aplicações móveis. Atualmente, estou trabalhando no meu segundo aplicativo remunerado e tenho contribuído para o campo por meio de plataformas como o Upwork nos últimos seis meses.
 
 ![version :11.05.2023](https://img.shields.io/badge/version-11.05.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=GuiQueirozRibeiro&color=red) &nbsp;
@@ -95,9 +93,9 @@
 <details>
   <summary>🧑 Mais sobre mim</summary>
 
-  - 💡 Como líder dos estagiários no TRF (Tribunal Regional Federal), minhas responsabilidades envolvem supervisionar a infraestrutura do servidor, implementar a automação do GitLab e garantir a padronização das tarefas por meio do uso de playbooks.
+  - 💼 Liderando a equipe de estagiários no TRF (Tribunal Regional Federal), gerencio a infraestrutura do servidor, implemento automação no GitLab e garanto a execução padronizada de tarefas usando playbooks.
 
-  - 🎓 Atualmente, estou estudando no Centro Universitário IESB (Instituto de Educação Superior de Brasília), no qual ingressei em 2020 e espero concluir até o final de 2024.
+  - 🎓 Estudando no Centro Universitário IESB desde 2020, prevejo a conclusão até o final de 2024.
 
   - 🌱 Estou no caminho para aprender mais sobre Inteligência Artificial, Web Scraping e Aplicações Web.
 
