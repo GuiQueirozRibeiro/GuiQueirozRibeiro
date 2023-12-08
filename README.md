@@ -25,10 +25,6 @@
 ![profile count](https://komarev.com/ghpvc/?username=GuiQueirozRibeiro&color=red) &nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/GuiQueirozRibeiro?label=follow&style=social)](https://github.com/GuiQueirozRibeiro)
 
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
-
 <div>
 <details>
   <summary>🧑 More about me</summary>
@@ -84,10 +80,6 @@
 ![version :11.05.2023](https://img.shields.io/badge/version-11.05.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=GuiQueirozRibeiro&color=red) &nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/GuiQueirozRibeiro?label=follow&style=social)](https://github.com/GuiQueirozRibeiro)
-
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
 
 <div>
 <details>
