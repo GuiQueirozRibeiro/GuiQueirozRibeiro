@@ -85,15 +85,13 @@
 <details>
   <summary>🧑 Mais sobre mim</summary>
 
-  - 💼 Liderando a equipe de estagiários no TRF (Tribunal Regional Federal), gerencio a infraestrutura do servidor, implemento automação no GitLab e garanto a execução padronizada de tarefas usando playbooks.
+  -💼 Liderando a equipe de estagiários no TRF (Tribunal Regional Federal), gerencio a infraestrutura do servidor, implemento automação no GitLab e asseguro a execução padronizada de tarefas usando playbooks.
 
   - 🎓 Estudando no Centro Universitário IESB desde 2020, prevejo a conclusão até o final de 2024.
 
-  - 🌱 Estou no caminho para aprender mais sobre Inteligência Artificial, Web Scraping e Aplicações Web.
+  - 💬 Sinta-se à vontade para entrar em contato comigo para consultas gerais ou discussões sobre os tópicos mencionados!
 
-  - 💬 Sinta-se à vontade para entrar em contato comigo para consultoria geral ou discussões sobre os tópicos acima!
-
-  - 📄 Você pode conferir meu [currículo](https://docs.google.com/document/d/1loX82tlhRU6mfKlPaeO_2KDdrVmGSxZg5FnYlnaGAOY/edit?usp=sharing) para mais detalhes sobre minha experiência de trabalho.
+  - 📄 Você pode conferir meu [currículo](https://docs.google.com/document/d/1loX82tlhRU6mfKlPaeO_2KDdrVmGSxZg5FnYlnaGAOY/edit?usp=sharing) para mais detalhes sobre minha experiência profissional.
   
 </details>
   
