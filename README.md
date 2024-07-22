@@ -27,8 +27,6 @@
 <details>
   <summary>🧑 More about me</summary>
 
-  - 💼 Leading the intern team at the TRF (Federal Regional Court), I manage server infrastructure, implement GitLab automation, and ensure standardized task execution using playbooks.
-
   - 🎓 Studying at the University Center IESB since 2020, I anticipate completion by the end of 2024.
 
   - 💬 Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
@@ -82,8 +80,6 @@
 <div>
 <details>
   <summary>🧑 Mais sobre mim</summary>
-
-  -💼 Liderando a equipe de estagiários no TRF (Tribunal Regional Federal), gerencio a infraestrutura do servidor, implemento automação no GitLab e asseguro a execução padronizada de tarefas usando playbooks.
 
   - 🎓 Estudando no Centro Universitário IESB desde 2020, prevejo a conclusão até o final de 2024.
 
