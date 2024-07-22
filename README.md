@@ -17,7 +17,7 @@
 
   ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 
-&nbsp; I'm **Guilherme**, a freelancer with over two years of experience in Flutter development, focusing on mobile applications. Currently working on my second paid app, I've been contributing to the field through platforms like Upwork for the past six months.
+&nbsp; I'm **Guilherme**, a freelancer with over two years of experience in Flutter development, focusing on mobile applications. Currently working on my second paid app, I've been contributing to the field through platforms like Upwork for the past 10 months.
 
 ![version :11.05.2023](https://img.shields.io/badge/version-11.05.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=GuiQueirozRibeiro&color=red) &nbsp;
@@ -73,7 +73,7 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá!
 
-&nbsp; Eu sou **Guilherme**, um freelancer com mais de dois anos de experiência em desenvolvimento Flutter, com foco em aplicações móveis. Atualmente, estou trabalhando no meu segundo aplicativo remunerado e tenho contribuído para o campo por meio de plataformas como o Upwork nos últimos seis meses.
+&nbsp; Eu sou **Guilherme**, um freelancer com mais de dois anos de experiência em desenvolvimento Flutter, com foco em aplicações móveis. Atualmente, estou trabalhando no meu segundo aplicativo remunerado e tenho contribuído para o campo por meio de plataformas como o Upwork nos últimos 10 meses.
 
 ![version :11.05.2023](https://img.shields.io/badge/version-11.05.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=GuiQueirozRibeiro&color=red) &nbsp;
