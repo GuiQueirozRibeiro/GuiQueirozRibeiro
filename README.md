@@ -27,7 +27,7 @@
 <details>
   <summary>🧑 More about me</summary>
 
-  - 🎓 Graduated with a B.S. in Computer Science from IESB (2024) and currently pursuing an MIT in Mobile Development at Instituto Infnet (2026).
+  - 🎓 Graduated with a B.S. in Computer Science from IESB (2025) and currently pursuing an MIT in Mobile Development at Instituto Infnet (2026).
   - 💼 Founder & Lead Engineer at **Exímia Tech**, managing end-to-end SaaS products, automation workflows, and mobile/web development.
   - 💬 Reach out to me for consulting, software architecture, or mobile & web development partnerships!
   - 📄 Check my [LinkedIn](https://www.linkedin.com/in/guilherme-queiroz-ribeiro-9ab383161/) for my detailed work history.
@@ -82,7 +82,7 @@
 <details>
   <summary>🧑 Mais sobre mim</summary>
 
-  - 🎓 Graduado em Ciência da Computação pelo IESB (2024) e cursando Pós-Graduação (MIT) em Desenvolvimento Mobile pelo Instituto Infnet (2026).
+  - 🎓 Graduado em Ciência da Computação pelo IESB (2025) e cursando Pós-Graduação (MIT) em Desenvolvimento Mobile pelo Instituto Infnet (2026).
   - 💼 Fundador e Engenheiro Principal na **Exímia Tech**, liderando equipes e entregando sistemas SaaS, automações de workflows e aplicativos móveis e web.
   - 💬 Entre em contato para consultoria técnica, arquitetura de software ou parcerias de desenvolvimento web & mobile!
   - 📄 Confira meu [LinkedIn](https://www.linkedin.com/in/guilherme-queiroz-ribeiro-9ab383161/) para ver meu histórico profissional detalhado.
