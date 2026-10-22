@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="42" viewBox="0 0 128 42" role="img" aria-label="Portfólio">
-  <rect x="0.5" y="0.5" width="127" height="41" rx="8" fill="#0F141F" stroke="#1E2635"/>
-  <g transform="translate(22 21)" color="#22D3EE"><circle cx="0" cy="0" r="7.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M-7.5 0h15M0-7.5c3 3 3 12 0 15M0-7.5c-3 3-3 12 0 15" fill="none" stroke="currentColor" stroke-width="1.4"/></g>
-  <text x="40" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">Portfólio</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="38" viewBox="0 0 130 38" role="img" aria-label="Portfólio">
+  <rect x="0.5" y="0.5" width="129" height="37" rx="8" fill="#0D1117" stroke="#21262D"/>
+  <g transform="translate(20 19)" color="#38BDF8">
+    <circle cx="0" cy="0" r="7" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <path d="M-7 0h14M0-7c2.8 2.8 2.8 11.2 0 14M0-7c-2.8 2.8-2.8 11.2 0 14" fill="none" stroke="currentColor" stroke-width="1.3"/>
+  </g>
+  <text x="36" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#F0F6FC">Portfólio</text>
 </svg>
