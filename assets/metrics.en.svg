@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100" role="img" aria-label="4+ years of software engineering · iOS · Android · Web React Native, Flutter, Next.js · &lt;5% → 95%+ test coverage · Michelin · Mentor since 2022 UCB squad and junior devs">
+  <style>
+    .in { opacity: 0; animation: in .8s cubic-bezier(.22,1,.36,1) forwards; }
+    @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .in { animation: none; opacity: 1; } }
+  </style>
+  <g class="in" style="animation-delay:0.10s">
+    <rect x="0.5" y="0.5" width="209" height="99" rx="12" fill="#0F141F" stroke="#1E2635"/>
+    <text x="20" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#F4F4F5">4+ years</text>
+    <text x="20" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#94A3B8">of software engineering</text>
+    <rect x="20" y="84" width="28" height="3" rx="1.5" fill="#22D3EE"/>
+  </g>
+  <g class="in" style="animation-delay:0.22s">
+    <rect x="230.5" y="0.5" width="209" height="99" rx="12" fill="#0F141F" stroke="#1E2635"/>
+    <text x="250" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#F4F4F5">iOS · Android · Web</text>
+    <text x="250" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#94A3B8">React Native, Flutter, Next.js</text>
+    <rect x="250" y="84" width="28" height="3" rx="1.5" fill="#F59E0B"/>
+  </g>
+  <g class="in" style="animation-delay:0.34s">
+    <rect x="460.5" y="0.5" width="209" height="99" rx="12" fill="#0F141F" stroke="#1E2635"/>
+    <text x="480" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#F4F4F5">&lt;5% → 95%+</text>
+    <text x="480" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#94A3B8">test coverage · Michelin</text>
+    <rect x="480" y="84" width="28" height="3" rx="1.5" fill="#22D3EE"/>
+  </g>
+  <g class="in" style="animation-delay:0.46s">
+    <rect x="690.5" y="0.5" width="209" height="99" rx="12" fill="#0F141F" stroke="#1E2635"/>
+    <text x="710" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#F4F4F5">Mentor since 2022</text>
+    <text x="710" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#94A3B8">UCB squad and junior devs</text>
+    <rect x="710" y="84" width="28" height="3" rx="1.5" fill="#F59E0B"/>
+  </g>
+</svg>

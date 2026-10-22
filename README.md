@@ -1,123 +1,113 @@
-<img align="right" width="280px" style="margin-top: -20px; margin-right: 20px;" src="images/ola.png">
+<div align="center">
 
-</br></br>
+<img src="assets/header.pt.svg" alt="Guilherme Queiroz Ribeiro — Engenheiro de Software · Mobile, Web & APIs" width="100%">
 
-<div display="inline-block">
- 
-  <h1 align="left">Guilherme Queiroz</h1>
-  <a href="https://instagram.com/guilhermequeirozr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/guilherme-queiroz-ribeiro-9ab383161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
-  <a href="https://wa.me/+5561996301711?text=I'm%20interested%20in%20knowing%20more%20about%20your%20profile" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<p>
+  <a href="https://guilhermequeiroz.dev"><img src="assets/btn-portfolio.pt.svg" height="42" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/guilherme-queiroz-ribeiro/"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn"></a>
+  <a href="https://wa.me/5561992661000?text=Ol%C3%A1%20Guilherme%2C%20vi%20seu%20GitHub!"><img src="assets/btn-whatsapp.svg" height="42" alt="WhatsApp"></a>
+  <a href="mailto:guilherme.q.r@hotmail.com"><img src="assets/btn-email.svg" height="42" alt="guilherme.q.r@hotmail.com"></a>
+</p>
+
+<sub>🇧🇷 Português &nbsp;·&nbsp; <a href="README.en.md">🇬🇧 English</a></sub>
+
+<br><br>
+
+<img src="assets/metrics.pt.svg" alt="4+ anos de engenharia de software · iOS, Android e Web · cobertura de testes de menos de 5% para 95%+ na Michelin · mentor desde 2022" width="100%">
+
 </div>
 
-</br></br>
+<br>
 
-<details open>
-<summary>English</summary>
+## Sobre
 
-  ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there!
+Sou engenheiro de software em Brasília, com mais de 4 anos de experiência. Comecei no mobile com Flutter e hoje trabalho com React Native, Next.js e APIs em Node.js — do banco de dados à publicação nas lojas.
 
-&nbsp; I'm **Guilherme**, a Mobile and Full-Stack Software Engineer with over 4 years of experience and the Founder of **Exímia Tech**. I specialize in building scalable, robust, and high-performance mobile and web solutions, with a strong focus on Flutter, React Native, Next.js, and cloud ecosystems.
+Trabalho no **Sistema Boss**, a área de tecnologia da Agência Sisters, onde mantenho o app e as plataformas do Movimento Vida 360 e da Sisters Esportes, e estamos migrando o sistema legado em PHP/Laravel para uma API em Node.js com Prisma. Também sou fundador da **Exímia Tech**, um estúdio onde desenvolvemos SaaS e apps para clientes.
 
-![version :16.06.2026](https://img.shields.io/badge/version-16.06.2026-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=GuiQueirozRibeiro&color=red) &nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/GuiQueirozRibeiro?label=follow&style=social)](https://github.com/GuiQueirozRibeiro)
+Desde 2022 faço mentoria de devs que estão começando.
 
-<div>
-<details>
-  <summary>🧑 More about me</summary>
+<br>
 
-  - 🎓 Graduated with a B.S. in Computer Science from IESB (2025) and currently pursuing an MIT in Mobile Development at Instituto Infnet (2026).
-  - 💼 Founder & Lead Engineer at **Exímia Tech**, managing end-to-end SaaS products, automation workflows, and mobile/web development.
-  - 💬 Reach out to me for consulting, software architecture, or mobile & web development partnerships!
-  - 📄 Check my [LinkedIn](https://www.linkedin.com/in/guilherme-queiroz-ribeiro-9ab383161/) for my detailed work history.
-  
-</details>
+## Trajetória
+
+| Período | Onde | Papel | O que fiz |
+| :-- | :-- | :-- | :-- |
+| **Abr 2026 — hoje** | Sistema Boss *(Agência Sisters)* | Eng. de Software Pleno | App React Native/Expo com EAS e OTA, API Node.js/Express/Prisma, YouTube Live API, webhooks Asaas/Kiwify, Postmark |
+| **Out 2023 — hoje** | Exímia Tech | Fundador & Tech Lead | Agendai, ArenaX, ERP de condomínios, 4 Play Arena |
+| **Nov 2025 — Abr 2026** | Setteone | Eng. de Software Pleno | CRM B2B offline-first com SQLite, Firestore e FFmpeg |
+| **Jul 2025 — Out 2025** | Meta *(projeto Michelin)* | Eng. de Software | Gestão de frotas em Flutter com gRPC, WebSocket e BLoC; testes de <5% para 95%+ |
+| **Abr 2022 — Abr 2024** | TRF 1ª Região | Eng. de Software Fullstack | Monitoramento de servidores Linux, GitLab self-hosted e CI/CD |
+
+<br>
+
+## Projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Movimento Vida 360</h3>
+      <sub><b>Sistema Boss · 2026</b></sub>
+      <p>Plataforma de bem-estar corporativo com aulas ao vivo para servidores públicos. Portal, app mobile, painel administrativo e painel do gestor ligados a uma API central. O estado das transmissões vem da YouTube Live API.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>MySQL</code> <code>Next.js</code> <code>React Native</code> <code>Expo</code></p>
+      <a href="https://movimentovida360.com.br/">movimentovida360.com.br →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Sisters Esportes</h3>
+      <sub><b>Sistema Boss · 2026</b></sub>
+      <p>Organizador de corridas de rua (criação de provas, lotes, categorias e inscrições com Pix e cartão) e a landing do clube de corrida Batida em Movimento.</p>
+      <p><code>Next.js</code> <code>Framer Motion</code> <code>Express</code> <code>MySQL</code> <code>Asaas</code></p>
+      <a href="https://organizador.agenciasisters.com.br/">organizador.agenciasisters.com.br →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Agendai</h3>
+      <sub><b>Exímia Tech · 2025</b></sub>
+      <p>SaaS white-label de agendamento. Cada empresa tem seu site, agenda e equipe; os dados ficam isolados por tenant com RLS e um agente de IA agenda pelo WhatsApp.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code></p>
+      <a href="https://agendai.tec.br/">agendai.tec.br →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Michelin Fleet</h3>
+      <sub><b>Meta · 2025</b></sub>
+      <p>App de gestão de frotas da Michelin com rastreamento veicular em tempo real. Escrevi a suíte de testes que levou a cobertura de menos de 5% para mais de 95%.</p>
+      <p><code>Flutter</code> <code>gRPC</code> <code>WebSocket</code> <code>BLoC</code> <code>Mockito</code></p>
+    </td>
+  </tr>
+</table>
+
+> Outros: **ArenaX** (torneios de tênis em Duplas Rotativas, com uma squad de alunos da UCB), **Setteone CRM** (offline-first) e **ERP de Condomínios** (RBAC + RLS). Mais detalhes no [portfólio](https://guilhermequeiroz.dev).
+
+<br>
+
+## Stack
+
+**Mobile** &nbsp; `React Native` `Expo / EAS` `Flutter` `Dart` `BLoC` `SQLite` `Swift / Kotlin (Native Modules)`
+
+**Web** &nbsp; `TypeScript` `Next.js` `React` `Tailwind CSS` `Framer Motion` `Material UI`
+
+**Backend & dados** &nbsp; `Node.js` `Express` `Prisma` `MySQL` `PostgreSQL` `Supabase` `Firebase` `gRPC` `WebSocket`
+
+**Integrações** &nbsp; `Asaas` `Kiwify` `Postmark` `YouTube Live API` `WhatsApp`
+
+**Infra** &nbsp; `Docker` `AWS` `GitHub Actions` `Linux`
+
+<br>
+
+## GitHub
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=GuiQueirozRibeiro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0d14&title_color=22d3ee&icon_color=f59e0b&text_color=cbd5e1&locale=pt-br" height="165" alt="Estatísticas do GitHub">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=GuiQueirozRibeiro&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=0a0d14&title_color=22d3ee&text_color=cbd5e1&locale=pt-br" height="165" alt="Linguagens mais usadas">
 </div>
 
+<br>
 
-## ⚡ Tech Stack
-
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)&nbsp;
-  ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
-  ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)&nbsp;
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;\
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)&nbsp;
-  ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=flat&logo=firebase&logoColor=white)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)&nbsp;
-  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)&nbsp;\
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
-  ![Git](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)&nbsp;
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
-
-## 📈 Statistics
-
-<div>
-  <a href="https://github.com/GuiQueirozRibeiro">
-    <img align="right" width="30%" src="images/cafe.png">
-    <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiQueirozRibeiro&show_icons=true&theme=radical&title_color=ff3068?"></img>
-    <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiQueirozRibeiro&layout=compact&theme=radical&title_color=ff3068?"></img>
-  </a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiQueirozRibeiro/GuiQueirozRibeiro/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiQueirozRibeiro/GuiQueirozRibeiro/output/github-contribution-grid-snake.svg">
+    <img alt="Contribuições no GitHub" src="https://raw.githubusercontent.com/GuiQueirozRibeiro/GuiQueirozRibeiro/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
- 
-</div>
-
-</details>
-
-<details>
-<summary>Portuguese</summary>
-
-  ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá!
-
-&nbsp; Eu sou **Guilherme**, Engenheiro de Software Mobile e Full-Stack com mais de 4 anos de experiência e Fundador da **Exímia Tech**. Especialista em projetar e construir soluções web e mobile escaláveis, robustas e de alta performance, com foco em Flutter, React Native, Next.js e ecossistemas cloud.
-
-![version :16.06.2026](https://img.shields.io/badge/version-16.06.2026-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=GuiQueirozRibeiro&color=red) &nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/GuiQueirozRibeiro?label=follow&style=social)](https://github.com/GuiQueirozRibeiro)
-
-<div>
-<details>
-  <summary>🧑 Mais sobre mim</summary>
-
-  - 🎓 Graduado em Ciência da Computação pelo IESB (2025) e cursando Pós-Graduação (MIT) em Desenvolvimento Mobile pelo Instituto Infnet (2026).
-  - 💼 Fundador e Engenheiro Principal na **Exímia Tech**, liderando equipes e entregando sistemas SaaS, automações de workflows e aplicativos móveis e web.
-  - 💬 Entre em contato para consultoria técnica, arquitetura de software ou parcerias de desenvolvimento web & mobile!
-  - 📄 Confira meu [LinkedIn](https://www.linkedin.com/in/guilherme-queiroz-ribeiro-9ab383161/) para ver meu histórico profissional detalhado.
-  
-</details>
-</div>
-
-
-## ⚡ Pilha de Tecnologias
-
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)&nbsp;
-  ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
-  ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)&nbsp;
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;\
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)&nbsp;
-  ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=flat&logo=firebase&logoColor=white)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)&nbsp;
-  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)&nbsp;\
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
-  ![Git](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)&nbsp;
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
-
-## 📈 Estatísticas
-
-<div>
-  <a href="https://github.com/GuiQueirozRibeiro">
-    <img align="right" width="30%" src="images/cafe.png">
-    <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiQueirozRibeiro&show_icons=true&theme=radical&title_color=ff3068?"></img>
-    <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiQueirozRibeiro&layout=compact&theme=radical&title_color=ff3068?"></img>
-  </a>
-</div>
- 
-</div>
-
-</details>
