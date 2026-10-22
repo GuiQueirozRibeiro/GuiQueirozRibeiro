@@ -1,19 +1,15 @@
 <div align="center">
 
-<img src="assets/header.en.svg" alt="Guilherme Queiroz Ribeiro — Software Engineer · Mobile, Web & APIs" width="100%">
+<img src="assets/header.en.svg" alt="Guilherme Queiroz Ribeiro - Software Engineer" width="100%">
 
 <p>
-  <a href="https://guilhermequeiroz.dev"><img src="assets/btn-portfolio.en.svg" height="42" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/guilherme-queiroz-ribeiro/"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn"></a>
-  <a href="https://wa.me/5561992661000?text=Hi%20Guilherme%2C%20I%20saw%20your%20GitHub!"><img src="assets/btn-whatsapp.svg" height="42" alt="WhatsApp"></a>
-  <a href="mailto:guilherme.q.r@hotmail.com"><img src="assets/btn-email.svg" height="42" alt="guilherme.q.r@hotmail.com"></a>
+  <a href="https://guilhermequeiroz.dev"><img src="assets/btn-portfolio.en.svg" height="40" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/guilherme-queiroz-ribeiro/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
+  <a href="https://wa.me/5561992661000?text=Hello%20Guilherme%2C%20saw%20your%20GitHub!"><img src="assets/btn-whatsapp.svg" height="40" alt="WhatsApp"></a>
+  <a href="mailto:guilherme.q.r@hotmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>
 </p>
 
 <sub><a href="README.md">🇧🇷 Português</a> &nbsp;·&nbsp; 🇬🇧 English</sub>
-
-<br><br>
-
-<img src="assets/metrics.en.svg" alt="4+ years of software engineering · iOS, Android and Web · test coverage from under 5% to 95%+ at Michelin · mentor since 2022" width="100%">
 
 </div>
 
@@ -21,85 +17,116 @@
 
 ## About
 
-I'm a software engineer in Brasília, Brazil, with 4+ years of experience. I started in mobile with Flutter and today work with React Native, Next.js and Node.js APIs — from the database to the app stores.
+I am a software engineer based in Brasília, Brazil, with over 4 years of experience. I develop production applications with Flutter and React Native, modern web interfaces with Next.js, and decoupled backend services in Node.js with Prisma ORM and relational databases (MySQL and PostgreSQL).
 
-I work at **Sistema Boss**, the technology arm of Agência Sisters, where I maintain the app and platforms for Movimento Vida 360 and Sisters Esportes, and we're migrating the legacy PHP/Laravel system to a Node.js API with Prisma. I'm also the founder of **Exímia Tech**, a studio where we build SaaS and apps for clients.
-
-Since 2022 I've mentored developers who are starting out.
+Currently working at **Sistema Boss**, the technology company powering the Agência Sisters and Movimento Vida 360 ecosystem, where I manage mobile releases with Expo/EAS and migrated legacy monoliths to Node.js APIs. I am also the founder and tech lead at **Exímia Tech**, architecting SaaS platforms and business systems.
 
 <br>
 
-## Experience
+## 🛠️ Tech Stack
 
-| Period | Where | Role | What I did |
-| :-- | :-- | :-- | :-- |
-| **Apr 2026 — now** | Sistema Boss *(Agência Sisters)* | Mid-level Software Engineer | React Native/Expo app with EAS and OTA, Node.js/Express/Prisma API, YouTube Live API, Asaas/Kiwify webhooks, Postmark |
-| **Oct 2023 — now** | Exímia Tech | Founder & Tech Lead | Agendai, ArenaX, condominium ERP, 4 Play Arena |
-| **Nov 2025 — Apr 2026** | Setteone | Mid-level Software Engineer | Offline-first B2B CRM with SQLite, Firestore and FFmpeg |
-| **Jul 2025 — Oct 2025** | Meta *(Michelin project)* | Software Engineer | Flutter fleet management with gRPC, WebSocket and BLoC; tests from <5% to 95%+ |
-| **Apr 2022 — Apr 2024** | TRF 1st Region (Federal Court) | Fullstack Software Engineer | Linux server monitoring, self-hosted GitLab and CI/CD |
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
 
 <br>
 
-## Projects
+## 📱 Published Apps on the App Store
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Movimento Vida 360</h3>
-      <sub><b>Sistema Boss · 2026</b></sub>
-      <p>Corporate well-being platform with live classes for public servants. Portal, mobile app, admin and manager panels connected to one central API. Broadcast state comes from the YouTube Live API.</p>
-      <p><code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>MySQL</code> <code>Next.js</code> <code>React Native</code> <code>Expo</code></p>
-      <a href="https://movimentovida360.com.br/">movimentovida360.com.br →</a>
+      <h3>🚚 MyConnectedFleet by Michelin</h3>
+      <sub><b>Meta / Michelin · 2025</b></sub>
+      <p>Global fleet tracking application built with Flutter, streaming real-time telemetry over WebSocket and gRPC connections with BLoC state management. Wrote unit tests raising codebase test coverage from &lt;5% to over 95%.</p>
+      <a href="https://apps.apple.com/br/app/myconnectedfleet-by-michelin/id1573543686">View on App Store ↗</a> · <a href="https://connectedfleet.michelin.com/pt-br/solucoes/localizacao-e-rastreamento-veicular/">Michelin Solution ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Sisters Esportes</h3>
-      <sub><b>Sistema Boss · 2026</b></sub>
-      <p>Street-race organizer (race setup, ticket batches, categories and sign-ups with Pix and card) and the landing page for the Batida em Movimento running club.</p>
-      <p><code>Next.js</code> <code>Framer Motion</code> <code>Express</code> <code>MySQL</code> <code>Asaas</code></p>
-      <a href="https://organizador.agenciasisters.com.br/">organizador.agenciasisters.com.br →</a>
+      <h3>🎾 ArenaX</h3>
+      <sub><b>Exímia Tech / UCB · 2025</b></sub>
+      <p>Sports competition management platform. Built in partnership with Universidade Católica de Brasília (UCB), conducting weekly mentorship for an engineering squad.</p>
+      <a href="https://apps.apple.com/br/app/arenax/id6762231258">View on App Store ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Agendai</h3>
-      <sub><b>Exímia Tech · 2025</b></sub>
-      <p>White-label scheduling SaaS. Each business gets its own site, calendar and staff; data is isolated per tenant with RLS and an AI agent books over WhatsApp.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code></p>
-      <a href="https://agendai.tec.br/">agendai.tec.br →</a>
+      <h3>💼 Setteone CRM</h3>
+      <sub><b>Setteone · 2025</b></sub>
+      <p>Cross-platform B2B CRM and field audit app. Full offline-first architecture with SQLite and AsyncStorage, cloud background sync with Firestore, and local audio processing with FFmpeg.</p>
+      <a href="https://apps.apple.com/us/app/setteone-crm/id6747451964">View on App Store ↗</a> · <a href="https://www.setteone.com.br/">setteone.com.br ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Michelin Fleet</h3>
-      <sub><b>Meta · 2025</b></sub>
-      <p>Michelin's fleet management app with real-time vehicle tracking. I wrote the test suite that took coverage from under 5% to over 95%.</p>
-      <p><code>Flutter</code> <code>gRPC</code> <code>WebSocket</code> <code>BLoC</code> <code>Mockito</code></p>
+      <h3>🌱 Movimento Vida 360</h3>
+      <sub><b>Sistema Boss · 2026</b></sub>
+      <p>Corporate live-streaming platform. React Native mobile app with Expo, automated builds via EAS, and OTA updates deployed directly to users without app store review delays.</p>
+      <a href="https://movimentovida360.com.br/">movimentovida360.com.br ↗</a>
     </td>
   </tr>
 </table>
 
-> Also: **ArenaX** (rotating-doubles tennis tournaments, built with a UCB student squad), **Setteone CRM** (offline-first) and a **condominium ERP** (RBAC + RLS). More on my [portfolio](https://guilhermequeiroz.dev).
+<br>
+
+## 🌐 Production Web Platforms & SaaS
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏃 Sisters Esportes & Event Organizer</h3>
+      <sub><b>Sistema Boss · 2026</b></sub>
+      <p>Platform for managing running races, batch ticketing, and dynamic attendee check-ins with integrated checkout, alongside the official sports event portal for Agência Sisters.</p>
+      <a href="https://organizador.agenciasisters.com.br/">organizador.agenciasisters.com.br ↗</a> · <a href="https://esportes.agenciasisters.com.br/">Sports Portal ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📅 Agendai SaaS</h3>
+      <sub><b>Exímia Tech · 2025</b></sub>
+      <p>White-Label scheduling SaaS platform. Multi-tenant data isolation via PostgreSQL Row Level Security (RLS), real-time business dashboards, and WhatsApp AI automation.</p>
+      <a href="https://agendai.tec.br/">agendai.tec.br ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 SGP Condominium ERP</h3>
+      <sub><b>Exímia Tech · 2025</b></sub>
+      <p>Enterprise property management software featuring 24+ responsive screens, role-based access control (RBAC), and multi-tenant data security.</p>
+      <sub>Private under NDA</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Exímia Tech</h3>
+      <sub><b>Institutional Website · 2025</b></sub>
+      <p>Official website for the digital product engineering consultancy, showcasing enterprise solutions and delivered client platforms.</p>
+      <a href="https://eximiatech.com.br/">eximiatech.com.br ↗</a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-## Stack
+## Career
 
-**Mobile** &nbsp; `React Native` `Expo / EAS` `Flutter` `Dart` `BLoC` `SQLite` `Swift / Kotlin (Native Modules)`
-
-**Web** &nbsp; `TypeScript` `Next.js` `React` `Tailwind CSS` `Framer Motion` `Material UI`
-
-**Backend & data** &nbsp; `Node.js` `Express` `Prisma` `MySQL` `PostgreSQL` `Supabase` `Firebase` `gRPC` `WebSocket`
-
-**Integrations** &nbsp; `Asaas` `Kiwify` `Postmark` `YouTube Live API` `WhatsApp`
-
-**Infra** &nbsp; `Docker` `AWS` `GitHub Actions` `Linux`
+- **Sistema Boss (Agência Sisters) [Apr 2026 - Present]:** Mid-Level Software Engineer. Mobile release engineering (Expo/EAS), legacy monolith migration to Node.js/Prisma APIs, YouTube Live API, and payment webhooks.
+- **Exímia Tech [Oct 2023 - Present]:** Founder & Tech Lead. SaaS platform architecture (Agendai, SGP ERP, ArenaX), engineering leadership, and squad mentoring.
+- **Setteone [Nov 2025 - Apr 2026]:** Mid-Level Mobile Software Engineer. Offline-first B2B CRM (Flutter/React Native, SQLite, Firestore, and FFmpeg).
+- **Meta (Michelin Project) [Jul 2025 - Oct 2025]:** Software Engineer. MyConnectedFleet app in Flutter with gRPC and WebSocket. Increased unit test coverage from &lt;5% to over 95%.
+- **TRF 1ª Região [Apr 2022 - Apr 2024]:** Fullstack Software Engineer. Linux server monitoring with Python, Docker, and CI/CD automation pipelines.
 
 <br>
 
-## GitHub
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=GuiQueirozRibeiro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0d14&title_color=22d3ee&icon_color=f59e0b&text_color=cbd5e1" height="165" alt="GitHub stats">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=GuiQueirozRibeiro&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=0a0d14&title_color=22d3ee&text_color=cbd5e1" height="165" alt="Top languages">
+  <img src="https://github-stats-extended.vercel.app/api?username=GuiQueirozRibeiro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0d14&title_color=22d3ee&icon_color=f59e0b&text_color=cbd5e1&locale=en" height="165" alt="GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=GuiQueirozRibeiro&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=0a0d14&title_color=22d3ee&text_color=cbd5e1&locale=en" height="165" alt="Top Languages">
 </div>
 
 <br>
@@ -108,6 +135,6 @@ Since 2022 I've mentored developers who are starting out.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiQueirozRibeiro/GuiQueirozRibeiro/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiQueirozRibeiro/GuiQueirozRibeiro/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contributions" src="https://raw.githubusercontent.com/GuiQueirozRibeiro/GuiQueirozRibeiro/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/GuiQueirozRibeiro/GuiQueirozRibeiro/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>

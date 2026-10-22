@@ -1,23 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Guilherme Queiroz Ribeiro — Engenheiro de Software · Mobile, Web &amp; APIs">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Guilherme Queiroz Ribeiro - Engenheiro de Software">
   <defs>
-    <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
-    <radialGradient id="glowC" cx="0.85" cy="0.1" r="0.6"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.18"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
-    <radialGradient id="glowA" cx="0.05" cy="1" r="0.5"><stop offset="0" stop-color="#F59E0B" stop-opacity="0.12"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1E2635" stroke-width="1"/></pattern>
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111827" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0B0F19" stop-opacity="0.98"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="90%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orangeGlow" cx="10%" cy="90%" r="50%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dotPattern" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#334155" opacity="0.4"/>
+    </pattern>
     <style>
-      .in { opacity: 0; animation: in 0.9s cubic-bezier(.22,1,.36,1) forwards; }
-      .d1 { animation-delay: .15s } .d2 { animation-delay: .3s } .d3 { animation-delay: .45s }
-      @keyframes in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
-      @media (prefers-reduced-motion: reduce) { .in { animation: none; opacity: 1; } }
+      .pulseDot { animation: pulse 2s infinite ease-in-out; }
+      @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.4; transform: scale(0.85); } }
     </style>
   </defs>
-  <rect width="900" height="220" rx="16" fill="#0A0D14"/>
-  <rect width="900" height="220" rx="16" fill="url(#grid)" opacity="0.6"/>
-  <rect width="900" height="220" rx="16" fill="url(#glowC)"/>
-  <rect width="900" height="220" rx="16" fill="url(#glowA)"/>
-  <rect x="0.5" y="0.5" width="899" height="219" rx="15.5" fill="none" stroke="#1E2635"/>
-  <g class="in"><text x="48" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#F4F4F5">Guilherme Queiroz Ribeiro</text></g>
-  <g class="in d1"><rect x="48" y="114" width="120" height="5" rx="2.5" fill="url(#bar)"/></g>
-  <g class="in d2"><text x="48" y="154" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#CBD5E1">Engenheiro de Software · Mobile, Web &amp; APIs</text></g>
-  <g class="in d3"><text x="48" y="186" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#64748B">Brasília, DF  ·  Sistema Boss  ·  Exímia Tech</text></g>
+
+  <!-- Fundo com grid e iluminação -->
+  <rect width="900" height="230" rx="20" fill="url(#cardGrad)"/>
+  <rect width="900" height="230" rx="20" fill="url(#dotPattern)"/>
+  <rect width="900" height="230" rx="20" fill="url(#cyanGlow)"/>
+  <rect width="900" height="230" rx="20" fill="url(#orangeGlow)"/>
+  <rect x="1" y="1" width="898" height="228" rx="19" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Badge de Status no topo direito -->
+  <g transform="translate(680, 28)">
+    <rect width="170" height="30" rx="15" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+    <circle cx="16" cy="15" r="4.5" fill="#10B981" class="pulseDot"/>
+    <text x="30" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">Construindo no ar</text>
+  </g>
+
+  <!-- Título Principal -->
+  <text x="44" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="800" fill="#F8FAFC" letter-spacing="-0.02em">
+    Guilherme Queiroz Ribeiro
+  </text>
+
+  <!-- Subtítulo e Tagline -->
+  <text x="44" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="600" fill="#38BDF8">
+    Engenheiro de Software
+    <tspan fill="#64748B" font-weight="400"> / </tspan>
+    <tspan fill="#E2E8F0" font-weight="500">Mobile, Web &amp; APIs</tspan>
+  </text>
+
+  <text x="44" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" fill="#94A3B8">
+    Desenvolvimento de apps na App Store e plataformas web de ponta a ponta.
+  </text>
+
+  <!-- Tags Rápidas em Pílula -->
+  <g transform="translate(44, 172)">
+    <!-- Tag 1: Flutter & React Native -->
+    <rect x="0" y="0" width="175" height="28" rx="7" fill="#0F172A" stroke="#1E293B"/>
+    <text x="12" y="18" font-family="ui-monospace, monospace" font-size="12" font-weight="600" fill="#06B6D4">Flutter &amp; React Native</text>
+
+    <!-- Tag 2: Next.js & Node.js -->
+    <rect x="187" y="0" width="145" height="28" rx="7" fill="#0F172A" stroke="#1E293B"/>
+    <text x="199" y="18" font-family="ui-monospace, monospace" font-size="12" font-weight="600" fill="#F59E0B">Next.js &amp; Node.js</text>
+
+    <!-- Tag 3: MySQL & Postgres -->
+    <rect x="344" y="0" width="140" height="28" rx="7" fill="#0F172A" stroke="#1E293B"/>
+    <text x="356" y="18" font-family="ui-monospace, monospace" font-size="12" font-weight="600" fill="#10B981">MySQL &amp; Postgres</text>
+
+    <!-- Tag 4: Brasília, DF -->
+    <rect x="496" y="0" width="110" height="28" rx="7" fill="#0F172A" stroke="#1E293B"/>
+    <text x="508" y="18" font-family="ui-monospace, monospace" font-size="12" font-weight="500" fill="#94A3B8">Brasília, DF</text>
+  </g>
 </svg>
