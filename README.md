@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://guilhermequeiroz.dev"><img src="assets/btn-portfolio.pt.svg" height="38" alt="Portfólio"></a>
+  <a href="https://guilhermequeiroz.dev/curriculo-pt.pdf"><img src="assets/btn-cv.pt.svg" height="38" alt="Currículo"></a>
   <a href="https://www.linkedin.com/in/guilherme-queiroz-ribeiro/"><img src="assets/btn-linkedin.svg" height="38" alt="LinkedIn"></a>
   <a href="https://wa.me/5561992661000?text=Ol%C3%A1%20Guilherme%2C%20vi%20seu%20GitHub!"><img src="assets/btn-whatsapp.svg" height="38" alt="WhatsApp"></a>
   <a href="mailto:guilherme.q.r@hotmail.com"><img src="assets/btn-email.svg" height="38" alt="Email"></a>
